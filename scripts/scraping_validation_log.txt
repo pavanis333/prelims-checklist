@@ -1,0 +1,234 @@
+Subject: Visual Arts | Topic: Architecture | Subtopics via recursion: 40
+Subject: Visual Arts | Topic: Sculptures | Subtopics via recursion: 8
+Subject: Visual Arts | Topic: Paintings | Subtopics via recursion: 10
+Subject: Visual Arts | Topic: Pottery Tradition | Subtopics via recursion: 5
+Subject: Visual Arts | Topic: Numismatics | Subtopics via recursion: 1
+Subject: Performing Arts | Topic: Music in India | Subtopics via recursion: 9
+Subject: Performing Arts | Topic: Dances in India | Subtopics via recursion: 6
+Subject: Performing Arts | Topic: Sports in India | Subtopics via recursion: 4
+Subject: Performing Arts | Topic: Indian Theatre | Subtopics via recursion: 9
+Subject: Performing Arts | Topic: Indian Puppetry | Subtopics via recursion: 6
+Subject: Religion, Language & Literature | Topic: Religions in-India | Subtopics via recursion: 13
+Subject: Religion, Language & Literature | Topic: Languages and Literature in India | Subtopics via recursion: 19
+Subject: Miscellaneous | Topic: Government Cultural Institutions in India | Subtopics via recursion: 0
+WARNING: Topic 'Government Cultural Institutions in India' has 0 subtopics.
+Subject: Miscellaneous | Topic: UNESCO’s List of Cultural Heritage in India | Subtopics via recursion: 0
+WARNING: Topic 'UNESCO’s List of Cultural Heritage in India' has 0 subtopics.
+Subject: Miscellaneous | Topic: Protection and Promotion of Indian Culture and Heritage :Legal Provisions | Subtopics via recursion: 0
+WARNING: Topic 'Protection and Promotion of Indian Culture and Heritage :Legal Provisions' has 0 subtopics.
+Subject: Miscellaneous | Topic: Schemes and Awards | Subtopics via recursion: 3
+Subject: Miscellaneous | Topic: Personalities Related to Culture | Subtopics via recursion: 0
+WARNING: Topic 'Personalities Related to Culture' has 0 subtopics.
+Subject: Miscellaneous | Topic: Places of Cultural Interest | Subtopics via recursion: 0
+WARNING: Topic 'Places of Cultural Interest' has 0 subtopics.
+Subject: Miscellaneous | Topic: The Calendar & the Eras | Subtopics via recursion: 0
+WARNING: Topic 'The Calendar & the Eras' has 0 subtopics.
+Subject: Miscellaneous | Topic: Science and Technology in Ancient India | Subtopics via recursion: 0
+WARNING: Topic 'Science and Technology in Ancient India' has 0 subtopics.
+Subject: Miscellaneous | Topic: Recent developments | Subtopics via recursion: 54
+Subject: General Geography | Topic: Universe | Subtopics via recursion: 11
+Subject: General Geography | Topic: Earth Evolution | Subtopics via recursion: 13
+Subject: Geomorphology | Topic: Earth’s Interior | Subtopics via recursion: 8
+Subject: Geomorphology | Topic: Geology and Rock system | Subtopics via recursion: 15
+Subject: Geomorphology | Topic: Geomorphic Processes | Subtopics via recursion: 16
+Subject: Geomorphology | Topic: Earthquakes and Volcanism | Subtopics via recursion: 21
+Subject: Geomorphology | Topic: Distribution of Continents & Oceans | Subtopics via recursion: 25
+Subject: Geomorphology | Topic: Landforms and their evolution | Subtopics via recursion: 104
+Subject: Geomorphology | Topic: Landforms across the world | Subtopics via recursion: 3
+Subject: Oceanography | Topic: Hydroshpere | Subtopics via recursion: 4
+Subject: Oceanography | Topic: Submarine Relief Features | Subtopics via recursion: 7
+Subject: Oceanography | Topic: Minor relief features | Subtopics via recursion: 9
+Subject: Oceanography | Topic: Temperature and Salinity | Subtopics via recursion: 9
+Subject: Oceanography | Topic: Salinity of the Ocean Water | Subtopics via recursion: 7
+Subject: Oceanography | Topic: Waves, Ocean Currents, Tides | Subtopics via recursion: 35
+Subject: Oceanography | Topic: Marine Resources | Subtopics via recursion: 8
+Subject: Oceanography | Topic: Ocean Deposits and Corals | Subtopics via recursion: 8
+Subject: Climatology | Topic: Atmosphere | Subtopics via recursion: 11
+Subject: Climatology | Topic: Inversion of Temperature | Subtopics via recursion: 5
+Subject: Climatology | Topic: Insolation and Heat Budget | Subtopics via recursion: 18
+Subject: Climatology | Topic: Winds and Pressure belts | Subtopics via recursion: 22
+Subject: Climatology | Topic: Air Mass, Fronts, Cyclones and Jet Stream | Subtopics via recursion: 6
+Subject: Climatology | Topic: Precipitation | Subtopics via recursion: 22
+Subject: Climatology | Topic: Climatic Zones of the World | Subtopics via recursion: 13
+Subject: Bio-Geography | Topic: Soil Characteristics | Subtopics via recursion: 7
+Subject: Bio-Geography | Topic: Vegetation resources | Subtopics via recursion: 27
+Subject: Human and Economic Geography of the World | Topic: Demography and Census | Subtopics via recursion: 64
+Subject: Human and Economic Geography of the World | Topic: Human Development | Subtopics via recursion: 13
+Subject: Human and Economic Geography of the World | Topic: Economic Activities | Subtopics via recursion: 52
+Subject: Human and Economic Geography of the World | Topic: Transport and Communication | Subtopics via recursion: 13
+Subject: Human and Economic Geography of the World | Topic: International Trade | Subtopics via recursion: 27
+Subject: Human and Economic Geography of the World | Topic: Settlement | Subtopics via recursion: 17
+Subject: Indian Geography | Topic: Physiography of India | Subtopics via recursion: 17
+Subject: Indian Geography | Topic: Drainage System | Subtopics via recursion: 11
+Subject: Indian Geography | Topic: Climate | Subtopics via recursion: 11
+Subject: Indian Geography | Topic: Soils in India | Subtopics via recursion: 5
+Subject: Indian Geography | Topic: Natural Vegetation | Subtopics via recursion: 4
+Subject: Indian Geography | Topic: Population | Subtopics via recursion: 21
+Subject: Indian Geography | Topic: Settlements and Urbanization | Subtopics via recursion: 5
+Subject: Indian Geography | Topic: Land Resource | Subtopics via recursion: 6
+Subject: Indian Geography | Topic: Mineral Resource | Subtopics via recursion: 24
+Subject: Indian Geography | Topic: Energy Resources | Subtopics via recursion: 40
+Subject: Indian Geography | Topic: Agriculture Basic Terminologies | Subtopics via recursion: 23
+Subject: Indian Geography | Topic: Recent Developments in Agriculture Field | Subtopics via recursion: 33
+Subject: Indian Geography | Topic: Productivity of Crops and conditions for growth | Subtopics via recursion: 67
+Subject: Indian Geography | Topic: Industry | Subtopics via recursion: 46
+Subject: Indian Geography | Topic: Transport | Subtopics via recursion: 17
+Subject: Indian Geography | Topic: Recent Development in Transport Sector | Subtopics via recursion: 35
+Subject: Indian Geography | Topic: Recent developments in Industrial Sector | Subtopics via recursion: 15
+Subject: World Regional geography | Topic: Continents Countries and Cities | Subtopics via recursion: 6
+Subject: World Regional geography | Topic: Location in NEWS | Subtopics via recursion: 49
+Subject: Evolution of the Constitution | Topic: The Company Rule (1773-1858) | Subtopics via recursion: 8
+Subject: Evolution of the Constitution | Topic: The Crown Rule (1858-1947) | Subtopics via recursion: 8
+Subject: Evolution of the Constitution | Topic: Drafting and Sources of Indian Constitution) | Subtopics via recursion: 5
+Subject: Salient Features of Indian Constitution | Topic: Constitution and Types | Subtopics via recursion: 8
+Subject: Salient Features of Indian Constitution | Topic: Types of Political System | Subtopics via recursion: 5
+Subject: Salient Features of Indian Constitution | Topic: Types of Majorities as per the Indian Constitution | Subtopics via recursion: 4
+Subject: Salient Features of Indian Constitution | Topic: Preamble and Values in the Constitution | Subtopics via recursion: 14
+Subject: Salient Features of Indian Constitution | Topic: Amendment of the Constitution | Subtopics via recursion: 4
+Subject: Salient Features of Indian Constitution | Topic: Doctrine and Terms | Subtopics via recursion: 10
+Subject: Salient Features of Indian Constitution | Topic: Other Constitutional Dimensions | Subtopics via recursion: 2
+Subject: Union & Its Territory | Topic: ARTICLE 1-4 | Subtopics via recursion: 7
+Subject: Citizenship | Topic: Constitutional Provisions | Subtopics via recursion: 8
+Subject: Citizenship | Topic: Indian Diaspora | Subtopics via recursion: 2
+Subject: Fundamental Rights | Topic: Evolution Objectives And Features | Subtopics via recursion: 5
+Subject: Fundamental Rights | Topic: Article 12 and Article 13 | Subtopics via recursion: 2
+Subject: Fundamental Rights | Topic: Right to Equality | Subtopics via recursion: 5
+Subject: Fundamental Rights | Topic: Right to Freedom | Subtopics via recursion: 4
+Subject: Fundamental Rights | Topic: Right against Exploitation | Subtopics via recursion: 2
+Subject: Fundamental Rights | Topic: Right to Freedom of Religion | Subtopics via recursion: 4
+Subject: Fundamental Rights | Topic: Cultural and Educational Rights | Subtopics via recursion: 2
+Subject: Fundamental Rights | Topic: Right to Constitutional Remedies | Subtopics via recursion: 6
+Subject: Fundamental Rights | Topic: FR’s other Dimensions | Subtopics via recursion: 4
+Subject: Directive Principles of State Policy (DPSP) | Topic: Evolution, objectives, and features | Subtopics via recursion: 4
+Subject: Directive Principles of State Policy (DPSP) | Topic: Socialistic Principles | Subtopics via recursion: 8
+Subject: Directive Principles of State Policy (DPSP) | Topic: Gandhian Principles | Subtopics via recursion: 5
+Subject: Directive Principles of State Policy (DPSP) | Topic: Liberal-Intellectual Principles | Subtopics via recursion: 7
+Subject: Directive Principles of State Policy (DPSP) | Topic: Directive Principle Outside Part IV | Subtopics via recursion: 3
+Subject: Fundamental Duties | Topic: Article: 51A | Subtopics via recursion: 4
+Subject: Fundamental Duties | Topic: Recent Developments | Subtopics via recursion: 7
+Subject: System of Governance | Topic: Centre-State Relations | Subtopics via recursion: 10
+Subject: System of Governance | Topic: Inter State Relation | Subtopics via recursion: 4
+Subject: System of Governance | Topic: Special Provisoions for some States | Subtopics via recursion: 2
+Subject: System of Governance | Topic: Types of Emergencies | Subtopics via recursion: 2
+Subject: System of Governance | Topic: Financial Emergency | Subtopics via recursion: 0
+WARNING: Topic 'Financial Emergency' has 0 subtopics.
+Subject: Union Executive | Topic: President | Subtopics via recursion: 17
+Subject: Union Executive | Topic: Vice President | Subtopics via recursion: 7
+Subject: Union Executive | Topic: The Prime Minister | Subtopics via recursion: 6
+Subject: Union Executive | Topic: Union Council of Minister | Subtopics via recursion: 9
+Subject: Union Legislature | Topic: Organisation of Parliament | Subtopics via recursion: 10
+Subject: Union Legislature | Topic: Parliament, Lok Sabha and Rajya Sabha | Subtopics via recursion: 12
+Subject: Union Legislature | Topic: Legislative Procedure and Committees of Parliament | Subtopics via recursion: 14
+Subject: State Executive | Topic: Governor | Subtopics via recursion: 21
+Subject: State Executive | Topic: The Chief Minister and the CoM | Subtopics via recursion: 8
+Subject: State Legislature | Topic: Legislative Assembly | Subtopics via recursion: 4
+Subject: State Legislature | Topic: Legislative Council (Article 169) | Subtopics via recursion: 2
+Subject: Local Government | Topic: Panchayati Raj | Subtopics via recursion: 3
+Subject: Local Government | Topic: Urban Local Government | Subtopics via recursion: 2
+Subject: Union Territories and special Areas | Topic: Union Territories | Subtopics via recursion: 4
+Subject: Union Territories and special Areas | Topic: Schedule and Tribal Areas | Subtopics via recursion: 2
+Subject: The Judiciary | Topic: The Supreme Court | Subtopics via recursion: 12
+Subject: The Judiciary | Topic: The High Court Subordinate Courts & Lok Adalats | Subtopics via recursion: 11
+Subject: Constitutional & Non Constitutional Bodies | Topic: Constitutional Bodies | Subtopics via recursion: 17
+Subject: Constitutional & Non Constitutional Bodies | Topic: Non Constitutional | Subtopics via recursion: 7
+Subject: Political Dynamics | Topic: Political Parties and Election | Subtopics via recursion: 25
+Subject: Governance | Topic: Governing Institutions in India | Subtopics via recursion: 11
+Subject: Governance | Topic: Audit and other Transparency initiatives | Subtopics via recursion: 4
+Subject: Governance | Topic: Role of SHG, NGOs, Civil Society | Subtopics via recursion: 9
+Subject: Governance | Topic: Social Sector Bills | Subtopics via recursion: 13
+Subject: Governance | Topic: Welfare Schemes | Subtopics via recursion: 76
+Subject: International Relations | Topic: India’s Foreign Policy | Subtopics via recursion: 3
+Subject: International Relations | Topic: South Asia | Subtopics via recursion: 10
+Subject: International Relations | Topic: Central Asia | Subtopics via recursion: 4
+Subject: International Relations | Topic: West Asia | Subtopics via recursion: 5
+Subject: International Relations | Topic: Asia – Pacific | Subtopics via recursion: 7
+Subject: International Relations | Topic: Africa | Subtopics via recursion: 4
+Subject: International Relations | Topic: Europe | Subtopics via recursion: 5
+Subject: International Relations | Topic: US-China | Subtopics via recursion: 2
+Subject: International Relations | Topic: Indian Ocean Region | Subtopics via recursion: 3
+Subject: International Relations | Topic: Indian Diaspora | Subtopics via recursion: 3
+Subject: Basic Concepts | Topic: Macroeconomic Concepts | Subtopics via recursion: 4
+Subject: Basic Concepts | Topic: Microeconomic Concepts | Subtopics via recursion: 0
+WARNING: Topic 'Microeconomic Concepts' has 0 subtopics.
+Subject: Economic Measurements | Topic: National Income Concepts and Methods of Calculation | Subtopics via recursion: 13
+Subject: Economic Measurements | Topic: ? Inflation | Subtopics via recursion: 25
+Subject: Money and Banking | Topic: Money Function and Classification | Subtopics via recursion: 8
+Subject: Money and Banking | Topic: Financial Market and its Instruments | Subtopics via recursion: 10
+Subject: Money and Banking | Topic: Banking Structure in India | Subtopics via recursion: 45
+Subject: Public Finance in India | Topic: Budgeting | Subtopics via recursion: 5
+Subject: Public Finance in India | Topic: Fiscal Policy | Subtopics via recursion: 4
+Subject: Public Finance in India | Topic: Centre State Distribution | Subtopics via recursion: 1
+Subject: Public Finance in India | Topic: Tax Structure in India | Subtopics via recursion: 6
+Subject: Planning | Topic: Meaning Objectives and History | Subtopics via recursion: 14
+Subject: Planning | Topic: Planning Institutions | Subtopics via recursion: 3
+Subject: Planning | Topic: Five Year Plans in India | Subtopics via recursion: 3
+Subject: Open Economy | Topic: Foreign Trade Concepts | Subtopics via recursion: 8
+Subject: Open Economy | Topic: Trade Policy and Agreements | Subtopics via recursion: 5
+Subject: Open Economy | Topic: Exchange Rate | Subtopics via recursion: 5
+Subject: Open Economy | Topic: International Organization | Subtopics via recursion: 24
+Subject: Open Economy | Topic: Trade Agreements | Subtopics via recursion: 7
+Subject: Open Economy | Topic: Recent Developments in External Sector | Subtopics via recursion: 12
+Subject: Economic Sectors | Topic: Poverty | Subtopics via recursion: 5
+Subject: Economic Sectors | Topic: Employment | Subtopics via recursion: 2
+Subject: Economic Sectors | Topic: Government Schemes and?Programs | Subtopics via recursion: 11
+Subject: Economic Sectors | Topic: Committees | Subtopics via recursion: 7
+Subject: Environmental Ecology | Topic: Origin of Life forms | Subtopics via recursion: 2
+Subject: Environmental Ecology | Topic: Basic Concepts of Ecology | Subtopics via recursion: 20
+Subject: Environmental Ecology | Topic: Ecosystem functions | Subtopics via recursion: 16
+Subject: Environmental Ecology | Topic: Population Ecology | Subtopics via recursion: 5
+Subject: Environmental Ecology | Topic: Adaptation of Species and Interactions | Subtopics via recursion: 11
+Subject: Environmental Ecology | Topic: Terrestrial Ecosystems | Subtopics via recursion: 6
+Subject: Environmental Ecology | Topic: Aquatic Ecosystem | Subtopics via recursion: 13
+Subject: Environmental Ecology | Topic: Nutrient Cycling | Subtopics via recursion: 19
+Subject: Biodiversity | Topic: Basics of Biodiversity | Subtopics via recursion: 11
+Subject: Biodiversity | Topic: Animal and Plant Diversity | Subtopics via recursion: 85
+Subject: Resource Degradation & Management | Topic: Land Resource | Subtopics via recursion: 4
+Subject: Resource Degradation & Management | Topic: Forest Resource | Subtopics via recursion: 9
+Subject: Resource Degradation & Management | Topic: Soil Resource | Subtopics via recursion: 12
+Subject: Resource Degradation & Management | Topic: Water Pollution | Subtopics via recursion: 34
+Subject: Environmental Pollution | Topic: Basics of Pollution | Subtopics via recursion: 10
+Subject: Environmental Pollution | Topic: Mining and Pollution | Subtopics via recursion: 8
+Subject: Environmental Pollution | Topic: Air Pollution | Subtopics via recursion: 63
+Subject: Climate Change | Topic: Climate Change Basics | Subtopics via recursion: 30
+Subject: Climate Change | Topic: Climate Change Impact | Subtopics via recursion: 15
+Subject: Environmental Governance | Topic: Acts and Policies | Subtopics via recursion: 11
+Subject: Environmental Governance | Topic: Environment Impact Assessment (EIA) | Subtopics via recursion: 144
+Subject: Science & Technology in India | Topic: Policy Development of S&T in India | Subtopics via recursion: 15
+Subject: Science & Technology in India | Topic: Different Organization Institution and Various Department for the S&T | Subtopics via recursion: 9
+Subject: SPACE | Topic: Space Research Programme, Orbits and Launch | Subtopics via recursion: 6
+Subject: SPACE | Topic: Satellites, Launch Vehicles and India Satellite Programmes | Subtopics via recursion: 72
+Subject: IT & Communication | Topic: Different Regulatory Bodies in India for ICT | Subtopics via recursion: 6
+Subject: IT & Communication | Topic: Computer Terminology and Fundamental | Subtopics via recursion: 13
+Subject: IT & Communication | Topic: Mobile Generations and Technology | Subtopics via recursion: 64
+Subject: Materials, Nano Technology & ROBOTICS | Topic: Superconductivity Laser, Artificial Intelligence | Subtopics via recursion: 5
+Subject: Materials, Nano Technology & ROBOTICS | Topic: Superconductivity Laser, Artificial Intelligence | Subtopics via recursion: 49
+Subject: DEFENCE | Topic: Defence Technology | Subtopics via recursion: 27
+Subject: Nuclear Technology | Topic: Nuclear Energy and Nuclear Fuels | Subtopics via recursion: 4
+Subject: Nuclear Technology | Topic: Nuclear Programme in India | Subtopics via recursion: 9
+Subject: Nuclear Technology | Topic: Organisation Institutions | Subtopics via recursion: 2
+Subject: Nuclear Technology | Topic: Radioactivity | Subtopics via recursion: 4
+Subject: IPR and Other Miscellaneous Issues | Topic: IPR Intellectual Property Rights | Subtopics via recursion: 6
+Subject: Biotechnology | Topic: Biotechnology in India | Subtopics via recursion: 3
+Subject: Biotechnology | Topic: Genetics and Biotechnology | Subtopics via recursion: 6
+Subject: Biotechnology | Topic: Biological fuel generation | Subtopics via recursion: 6
+Subject: Biotechnology | Topic: Environmental Biotechnology | Subtopics via recursion: 7
+Subject: Biotechnology | Topic: Plant and Forest biotechnology | Subtopics via recursion: 2
+Subject: Biotechnology | Topic: Animal and insect biotechnology | Subtopics via recursion: 4
+Subject: Biotechnology | Topic: Food and Beverage Biotechnology | Subtopics via recursion: 16
+Subject: Biotechnology | Topic: Protection of biotechnological inventions | Subtopics via recursion: 2
+Subject: Biotechnology | Topic: Recent Development in Biotechnology | Subtopics via recursion: 16
+Subject: Biology | Topic: Origin of Life and Cells | Subtopics via recursion: 7
+Subject: Biology | Topic: Genetics | Subtopics via recursion: 6
+Subject: Biology | Topic: Classification of Living Things | Subtopics via recursion: 8
+Subject: Biology | Topic: Evolution of Life | Subtopics via recursion: 3
+Subject: Biology | Topic: Tissues | Subtopics via recursion: 3
+Subject: Biology | Topic: Endocrine System | Subtopics via recursion: 6
+Subject: Biology | Topic: Respiratory System | Subtopics via recursion: 4
+Subject: Biology | Topic: The Transport System in Organisms | Subtopics via recursion: 5
+Subject: Biology | Topic: Skeletal and Muscular Systems | Subtopics via recursion: 4
+Subject: Biology | Topic: Reproductive System | Subtopics via recursion: 5
+Subject: Biology | Topic: Excretory System | Subtopics via recursion: 5
+Subject: Biology | Topic: Nutrition | Subtopics via recursion: 6
+Subject: Biology | Topic: Diseases | Subtopics via recursion: 3
+Subject: Biology | Topic: Economic Zoology | Subtopics via recursion: 3
+Subject: Biology | Topic: Recent Development | Subtopics via recursion: 10
