@@ -1,0 +1,146 @@
+{
+  "General Science": [
+    {
+      "topic": "Origin of Life and Cells",
+      "subtopics": [
+        "Cell Structure",
+        "Membranes",
+        "Cell-Cell Interactions",
+        "Energy and Metabolism",
+        "Respiration",
+        "Cell Division",
+        "Sexual Reproduction"
+      ]
+    },
+    {
+      "topic": "Genetics",
+      "subtopics": [
+        "Inheritance",
+        "DNA, The Genetic Material",
+        "Gene Expression",
+        "Gene Regulation",
+        "Mutation",
+        "Recombinant DNA Technology"
+      ]
+    },
+    {
+      "topic": "Classification of Living Things",
+      "subtopics": [
+        "Classification and Domains of Life",
+        "General Biology/Classification of Living Things/Viruses",
+        "Prokaryotes",
+        "Eukaryotes",
+        "Protista",
+        "Plants",
+        "Fungi",
+        "Animals"
+      ]
+    },
+    {
+      "topic": "Evolution of Life",
+      "subtopics": [
+        "Evolution of Life",
+        "Animal Evolution",
+        "Human Evolution"
+      ]
+    },
+    {
+      "topic": "Tissues",
+      "subtopics": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Muscle tissue"
+      ]
+    },
+    {
+      "topic": "Endocrine System",
+      "subtopics": [
+        "Hypothalamus",
+        "Pineal body (epiphysis)",
+        "Pituitary gland (hypophysis)",
+        "Thyroid",
+        "Adrenal glands",
+        "Reproductive glands"
+      ]
+    },
+    {
+      "topic": "Respiratory System",
+      "subtopics": [
+        "External and Internal Respiration",
+        "Respiratory system in Plants",
+        "Respiratory System in Insects",
+        "Respiratory System in Humans and Animals"
+      ]
+    },
+    {
+      "topic": "The Transport System in Organisms",
+      "subtopics": [
+        "Transport system in a Cell",
+        "Transport System in Plants",
+        "Transport System in Animals",
+        "Blood Vascular System",
+        "The Lymphatic System"
+      ]
+    },
+    {
+      "topic": "Skeletal and Muscular Systems",
+      "subtopics": [
+        "Bone and Skeleton System (Osteology)",
+        "Ligaments (Syndesmology)",
+        "Muscular System (Myology)",
+        "Vertebrates"
+      ]
+    },
+    {
+      "topic": "Reproductive System",
+      "subtopics": [
+        "Asexual Reproduction in Plants",
+        "Asexual Reproduction in Animals",
+        "Sexual Reproduction in Plants",
+        "Sexual Reproduction in Animals",
+        "Sexual Reproduction in Humans"
+      ]
+    },
+    {
+      "topic": "Excretory System",
+      "subtopics": [
+        "Excretory products",
+        "Excretion in plants",
+        "Excretion in Animals",
+        "Osmoregulation, ADH and formation of Urine in Animals",
+        "Physiological and Behavioural Adjustments"
+      ]
+    },
+    {
+      "topic": "Nutrition",
+      "subtopics": [
+        "Classification by Source of Energy and Carbon",
+        "Plant Nutrition",
+        "Animal Nutrition",
+        "Human Diet",
+        "The Digestive System",
+        "Photosynthesis"
+      ]
+    },
+    {
+      "topic": "Diseases",
+      "subtopics": [
+        "Tuberculosis",
+        "Non-Communicable diseases",
+        "Diabetes mellitus"
+      ]
+    },
+    {
+      "topic": "Economic Zoology",
+      "subtopics": [
+        "Beneficial animals: Corals - Earthworm - Vermiculture",
+        "Beneficial insects - Prawns - Lobsters - Crabs - Pearl oysters - Fishes - Guano - Aquarium - Vivarium.",
+        "Harmful animals: Disease causing organisms - Vectors - Poisonous organisms - Fouling organisms - Pests."
+      ]
+    },
+    {
+      "topic": "Recent Development",
+      "subtopics": []
+    }
+  ]
+}
